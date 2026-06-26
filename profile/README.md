@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/280566468?v=4" width="96" alt="zERC20 logo">
+  <img src="https://framerusercontent.com/images/IxSVugRu0p9cwJZEDq0j5uDoMk.svg?width=1277&height=220" width="96" alt="zERC20 logo">
 </p>
 
 <h1 align="center">zERC20</h1>
