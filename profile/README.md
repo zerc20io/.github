@@ -11,9 +11,11 @@
 <p align="center">
   <a href="https://zerc20.io">Website</a>
   ·
-  <a href="https://zerc20.gitbook.io/zerc20">Docs</a>
+  <a href="https://docs.zerc20.io">Docs</a>
   ·
-  <a href="https://app.zerc20.io">App</a>
+  <a href="https://wallet.zerc20.io">Wallet</a>
+  ·
+  <a href="https://github.com/zerc20io/zerc20">Source</a>
   ·
   <a href="https://ethereum-magicians.org/t/zerc20-cross-chain-private-erc-20-based-on-zk-proof-of-burn/26452">Technical paper</a>
 </p>
@@ -29,20 +31,21 @@ The protocol uses zero-knowledge proof-of-burn mechanics inspired by EIP-7503 / 
 | Area | Focus |
 | --- | --- |
 | Wallet-native privacy | Private transfers through familiar ERC-20 operations |
-| Cross-chain support | Private movement across supported EVM networks |
+| Many chains | Ethereum, Base, Arbitrum, BNB Chain and Polygon |
 | Developer integration | SDKs, contracts, circuits, and frontend tooling |
 | Practical UX | No special wallet required for everyday private transfers |
 
 ## Start here
 
-- Try the app: [app.zerc20.io](https://app.zerc20.io)
-- Read the docs: [zerc20.gitbook.io/zerc20](https://zerc20.gitbook.io/zerc20)
+- Open the wallet: [wallet.zerc20.io](https://wallet.zerc20.io)
+- Read the docs: [docs.zerc20.io](https://docs.zerc20.io)
+- Read the source: [zerc20io/zerc20](https://github.com/zerc20io/zerc20)
 - Learn the design: [Cross-Chain Private ERC-20 Based on ZK Proof-of-Burn](https://ethereum-magicians.org/t/zerc20-cross-chain-private-erc-20-based-on-zk-proof-of-burn/26452)
 - Visit the website: [zerc20.io](https://zerc20.io)
 
 ## For developers
 
-zERC20 is designed to preserve the ERC-20 developer experience while adding private transfer capability. Integration work focuses on standard wallet flows, proof generation, cross-chain transfer support, and application-level tooling for products that need privacy without forcing users into a separate wallet stack.
+zERC20 is designed to preserve the ERC-20 developer experience while adding private transfer capability. Integration work focuses on standard wallet flows, proof generation, and application-level tooling for products that need privacy without forcing users into a separate wallet stack.
 
 ---
 
